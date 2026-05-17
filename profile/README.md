@@ -1,6 +1,6 @@
 # Locorda
 
-Building open source libraries and applications rooted in **linked data** and **offline-first** principles.
+Offline-first sync for Dart/Flutter — BYOB: Google Drive, Solid Pods, or any file storage. Plus the RDF & semantic web libraries that power it.
 
 ## Projects
 
